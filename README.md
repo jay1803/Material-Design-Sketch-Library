@@ -39,3 +39,7 @@ MDT 也可以用来做 UI 设计，但如果你使用 Measure 来导出作为标
 - [ ] Toolbars：70%，导航可能会有更新，抽屉导航也需要更新；
 - [x] Typography：100%，目前没有更新计划；
 - [x] Wireframe：100%，目前没有更新计划；
+
+***
+
+Sketch 的 git 提交是个很大问题，目前并没有很好的解决方案，第三方的服务也有很大的问题。因此这需要合作讨论才能解决。你可以在这里加入 Slack 讨论组：[MDSL-GIT](https://join.slack.com/t/mdsl-git/shared_invite/enQtMjg5MjE0OTc3MTA3LTJlMmQ4MDNmYTA4NzIzZGYyOWRmYmMyMDNjYmZlNjI4MTNlMmM1MjExY2RmOGVhODA2Yzc3MWNmY2NlNGUzYzc)。
