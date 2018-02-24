@@ -22,12 +22,13 @@ Assets.sketch 作为全局变量而存在，其中的组件会用在其他每个
 
 ![使用手册示例](https://raw.githubusercontent.com/jay1803/Material-Design-Toolkit/master/statics/manual.png?raw=true)
 
-### 各组件说明
+### 文件说明
 
-* Assets：基本组件，包括一些基本的颜色和文字等，如果要使用其他组建，则该组建也必须一起开启；
-* Buttons：按钮、标签组件，以及下拉菜单的按钮；
-* Cards：卡片组件，以及 Grid List 组件；
-* Dialogs：对话框组件，包括了 Picker 日期选择组件；
-* Forms：表单组件，包括文本框、单项选择和多项选择；
-* Lists：列表组件，包括了常用的列表和列表控制器，以及类似列表的菜单；
-* Toolbars：工具栏组件，包括了应用栏、导航栏和其他导航以及指示性的组件；
+* Sample.sketch：示例文件，一些组件的使用示例；
+* Assets.sketch：基本组件，包括一些基本的颜色和文字等，如果要使用其他组建，则该组建也必须一起开启；
+* Buttons.sketch：按钮、标签组件，以及下拉菜单的按钮；
+* Cards.sketch：卡片组件，以及 Grid List 组件；
+* Dialogs.sketch：对话框组件，包括了 Picker 日期选择组件；
+* Forms.sketch：表单组件，包括文本框、单项选择和多项选择；
+* Lists.sketch：列表组件，包括了常用的列表和列表控制器，以及类似列表的菜单；
+* Toolbars.sketch：工具栏组件，包括了应用栏、导航栏和其他导航以及指示性的组件；
