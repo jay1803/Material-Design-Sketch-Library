@@ -1,6 +1,6 @@
 # Material Design Toolkit
 
-Sketch 版本要求：**Sketch 48.2**
+Sketch 版本：**Sketch 49**
 
 我会在第一时间更新 Sketch 的版本，如果你在使用旧版，可能无法使用最新的版本，我尽量在每次更新之前都打包一次。
 
@@ -24,7 +24,6 @@ Assets.sketch 作为全局变量而存在，其中的组件会用在其他每个
 
 ### 文件说明
 
-* Sample.sketch：示例文件，一些组件的使用示例；
 * Assets.sketch：基本组件，包括一些基本的颜色和文字等，如果要使用其他组建，则该组建也必须一起开启；
 * Buttons.sketch：按钮、标签组件，以及下拉菜单的按钮；
 * Cards.sketch：卡片组件，以及 Grid List 组件；
