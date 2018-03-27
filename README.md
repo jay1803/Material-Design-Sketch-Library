@@ -31,3 +31,4 @@ Assets.sketch 作为全局变量而存在，其中的组件会用在其他每个
 * Forms.sketch：表单组件，包括文本框、单项选择和多项选择；
 * Lists.sketch：列表组件，包括了常用的列表和列表控制器，以及类似列表的菜单；
 * Toolbars.sketch：工具栏组件，包括了应用栏、导航栏和其他导航以及指示性的组件；
+* Toolkit.sketch：设计辅助工具，包括 Grid、Layout 以及标记的组件等；
